@@ -1,4 +1,4 @@
-#                                                                            🐎𝐅𝐨𝐫𝐝 𝐌𝐮𝐬𝐭𝐚𝐧𝐠
+#🐎ℱℴ𝓇𝒹 ℳ𝓊𝓈𝓉𝒶𝓃ℊ
 ### An Interactive Ford Mustang Image Slider
 
 A smooth, auto-playing image slider that shows a classic Mustang from every angle.
